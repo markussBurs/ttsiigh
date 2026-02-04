@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 OPR/126.0.0.0 (Edition Yx GX)" version="29.3.7">
+  <diagram name="Страница — 1" id="4A7F1ARs3PTXGCF5DLB-">
+    <mxGraphModel dx="814" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bFyLsSoyIyWNp8mvxs0N-51" edge="1" parent="1" source="bFyLsSoyIyWNp8mvxs0N-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="540.1428571428571" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bFyLsSoyIyWNp8mvxs0N-52" edge="1" parent="1" source="bFyLsSoyIyWNp8mvxs0N-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="580.1428571428571" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bFyLsSoyIyWNp8mvxs0N-55" edge="1" parent="1" source="bFyLsSoyIyWNp8mvxs0N-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360.2857142857142" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bFyLsSoyIyWNp8mvxs0N-56" edge="1" parent="1" source="bFyLsSoyIyWNp8mvxs0N-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400.2857142857142" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bFyLsSoyIyWNp8mvxs0N-57" edge="1" parent="1" source="bFyLsSoyIyWNp8mvxs0N-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440.2857142857142" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bFyLsSoyIyWNp8mvxs0N-61" edge="1" parent="1" source="bFyLsSoyIyWNp8mvxs0N-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360.2857142857142" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bFyLsSoyIyWNp8mvxs0N-62" edge="1" parent="1" source="bFyLsSoyIyWNp8mvxs0N-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400.2857142857142" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bFyLsSoyIyWNp8mvxs0N-63" edge="1" parent="1" source="bFyLsSoyIyWNp8mvxs0N-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440.2857142857142" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bFyLsSoyIyWNp8mvxs0N-67" edge="1" parent="1" source="bFyLsSoyIyWNp8mvxs0N-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bFyLsSoyIyWNp8mvxs0N-68" edge="1" parent="1" source="bFyLsSoyIyWNp8mvxs0N-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="580.1428571428571" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bFyLsSoyIyWNp8mvxs0N-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Страховая компания" vertex="1">
+          <mxGeometry height="80" width="160" x="320" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="bFyLsSoyIyWNp8mvxs0N-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Запрос клиента" vertex="1">
+          <mxGeometry height="30" width="60" x="200" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="bFyLsSoyIyWNp8mvxs0N-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Данные" vertex="1">
+          <mxGeometry height="30" width="60" x="200" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="bFyLsSoyIyWNp8mvxs0N-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Закон РФ&lt;div&gt;о страховании&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="290" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="bFyLsSoyIyWNp8mvxs0N-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Тарифы компании" vertex="1">
+          <mxGeometry height="30" width="60" x="370" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="bFyLsSoyIyWNp8mvxs0N-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Регламент" vertex="1">
+          <mxGeometry height="30" width="60" x="440" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="bFyLsSoyIyWNp8mvxs0N-64" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Программа" vertex="1">
+          <mxGeometry height="30" width="60" x="290" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="bFyLsSoyIyWNp8mvxs0N-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="База данных" vertex="1">
+          <mxGeometry height="30" width="60" x="370" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="bFyLsSoyIyWNp8mvxs0N-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Горячая линия" vertex="1">
+          <mxGeometry height="30" width="60" x="440" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="bFyLsSoyIyWNp8mvxs0N-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Договор" vertex="1">
+          <mxGeometry height="30" width="60" x="480" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="bFyLsSoyIyWNp8mvxs0N-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Полис" vertex="1">
+          <mxGeometry height="30" width="60" x="480" y="555" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
